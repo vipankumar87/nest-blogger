@@ -26,7 +26,10 @@
   },
   "homepage": "https://github.com/vipankumar87/nest-blogger#readme",
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
     "concurrently": "^7.2.1",
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "ra-data-simple-rest": "^4.1.0",
+    "react-admin": "^4.1.0"
   }
 }
